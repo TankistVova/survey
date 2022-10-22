@@ -1,0 +1,226 @@
+.heder-logo{
+    position: absolute;
+    width: 260px;
+    height: 314px;
+    top: 5%;
+    left: 2%;
+
+}
+
+.logo{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    z-index: 5;
+}
+
+.circle-1{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background: rgba(255, 188, 52, 0.91);
+    border-radius: 50%;
+    bottom: 75%;
+    left:20%;
+    z-index: 6;
+}
+
+.circle-2{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background: rgba(255, 188, 52, 0.91);
+    border-radius: 50%;
+    bottom: 65%;
+    left:-5%;
+    z-index: 0;
+}
+
+.circle-3{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: rgba(255, 188, 52, 0.91);
+    border-radius: 50%;
+    bottom: 95%;
+    left: 1.5%;
+    z-index: 6;
+}
+
+.Almoki{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    ont-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 112px;
+    color: #000000;
+    left: 40%;
+    top: -20%;
+}
+
+.o{
+    color: #FF8A00;
+}
+
+.Letter{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 30%;
+    left: 20%;
+}
+
+.Letter-big{
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 550;
+}
+
+.We{
+    color: #FF8A00;
+}
+
+.You{
+    color: #FF8A00;
+}
+
+.Letter-small{
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    top:55%
+}
+
+.button{
+    position: absolute;
+    top: 100%;
+    width: 200px;
+    height: 50px;
+    background: #FFBC34;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.button:hover{
+    background-color: #eeb748;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.ADV{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border-radius: 30px;
+    left: 50%;
+    top: 23%;
+}
+
+.worker{
+    position: absolute;
+    left: 70%;
+    top: 10%;
+}
+
+.work-button{
+    position: absolute;
+    border:0px;
+    background-color: #FFBC34;
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.work-button:hover{
+    background-color: #eeb748;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.Job{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    top: 7%;
+    left: 83%;
+}
+
+hr{
+    background-color: #FFBC34;
+    height: 2px;
+    margin-top: 50%;
+    border: 0px;
+}
+
+.Comm{
+    position: relative;
+    text-align: center;
+    text-align: center;
+    color: #FFBC34;
+}
+
+.card-1{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 130%;
+    background-color: #FFBC34;
+    margin-left: 20%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Prog1{
+    position: relative;
+    width: 150px;
+    height: 200px;
+    margin-top: 5%;
+    border-radius: 45%;
+}
+
+.card-2{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 130%;
+    background-color: #FFBC34;
+    margin-left: 40%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Prog2{
+    position: relative;
+    width: 150px;
+    height: 200px;
+    margin-top: 5%;
+    border-radius: 45%;
+}
+
+.card-3{
+    position: absolute;
+    width: 200px;
+    height: 300px;
+    top: 130%;
+    background-color: #FFBC34;
+    margin-left: 60%;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.Prog3{
+    position: relative;
+    width: 150px;
+    height: 200px;
+    margin-top: 5%;
+    border-radius: 45%;
+}
+
+
+
+

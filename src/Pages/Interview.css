@@ -1,5 +1,5 @@
 .body{
-    background-color: #05c46b;
+    background: url("../Images/back.webp");
 	font-family: Verdana;
 	text-align: center;
 }
@@ -40,7 +40,7 @@
 }
 
 .submit {
-    background-color: #05c46b;
+    background-color: #FFBC34;
     border: 1px solid #777;
     border-radius: 2px;
     font-family: inherit;
@@ -49,4 +49,9 @@
     width: 100%;
     margin-top: 50px;
     margin-bottom: 20px;
+}
+
+.submit:hover{
+    background-color: #f2a815;
+    transition: 0.5s;
 }

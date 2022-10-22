@@ -1,14 +1,15 @@
 import React, { useState } from "react";
 import {useHistory,Link} from 'react-router-dom'
 import { UseContext } from "../Contract/Context";
+import Logo from "../Images/Logo.png";
 import "./Interview.css"
 
 const Interview =()=> {
     return(
             <div className="body">
-                <h1>Опрос</h1>
-
                 <div className="form">
+                <p className="Text">Alm<span className="o">o</span>ki</p>
+                <h1>Опрос</h1>
                 <div className="form-control">
                     <label>
                         Имя
@@ -32,17 +33,17 @@ const Interview =()=> {
 
                 <div className="form-control">
                     <label>
-                        Какой вариант лучше всего описывает вас?
+                        Какой статус лучше всего описывает вас?
                     </label><br/>
                     <select>
                         <option>
                             Студент
                         </option>
                         <option>
-                            Интерн
+                            Безработный
                         </option>
                         <option>
-                            Профессионал
+                            Работающий
                         </option>
                     </select>
                 </div><br/>
